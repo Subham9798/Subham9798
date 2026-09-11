@@ -2,9 +2,9 @@
 
 # `Subham9798@github ~ $ whoami`
 
-<img src="avi-ascii.svg" width="420" alt="Subham Kumar Singh — custom ASCII portrait" />
+<img src="wordmark.svg" width="700" alt="SUBHAM — 3D ASCII wordmark" />
 
-<img src="wordmark.svg" width="560" alt="Subham Kumar Singh — 3D ASCII wordmark" />
+<img src="avi-ascii.svg" width="300" alt="Subham Kumar Singh — custom ASCII portrait" />
 
 **Software Developer · Computer Science · AI**
 
