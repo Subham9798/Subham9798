@@ -30,12 +30,12 @@
 ### `> github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Subham9798&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subham9798&layout=compact&hide_border=true&theme=transparent" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Subham9798&hide_border=true&theme=transparent" />
+  <a href="https://github.com/Subham9798">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://github.com/Subham9798?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" alt="View repositories" />
+  </a>
 </p>
 
 ### `> contributions`
