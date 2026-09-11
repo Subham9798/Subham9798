@@ -6,7 +6,7 @@
 <tr>
 <td width="48%" align="center" valign="middle">
 
-<img src="avi-ascii.svg" width="360" alt="Subham Kumar Singh — custom ASCII portrait" />
+<img src="https://github.com/Subham9798.png?size=500" width="360" alt="Subham Kumar Singh — profile photo" />
 
 </td>
 <td width="52%" align="center" valign="middle">
