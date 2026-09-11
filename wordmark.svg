@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f0f6fc"/><stop offset="1" stop-color="#8b949e"/></linearGradient></defs>
+<rect width="900" height="360" rx="18" fill="#0d1117"/>
+<g font-family="monospace" font-weight="900" font-size="112" text-anchor="middle" letter-spacing="4">
+<text x="450" y="220" fill="#30363d">SUBHAM</text><text x="447" y="217" fill="#3b424b">SUBHAM</text><text x="444" y="214" fill="#59636e">SUBHAM</text><text x="441" y="211" fill="#7d8590">SUBHAM</text><text x="438" y="208" fill="url(#g)">SUBHAM</text>
+</g>
+<text x="450" y="295" fill="#7d8590" font-family="monospace" font-size="18" text-anchor="middle">Subham9798@github: ~$ ./wordmark.sh --3d</text>
+</svg>
