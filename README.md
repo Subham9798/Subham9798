@@ -2,11 +2,9 @@
 
 # `Subham9798@github ~ $ whoami`
 
-<a href="https://github.com/Subham9798">
-  <img src="https://github.com/Subham9798.png" width="150" alt="Subham Kumar Singh" />
-</a>
+<img src="avi-ascii.svg" width="700" alt="Subham Kumar Singh — custom ASCII portrait" />
 
-## **SUBHAM**
+<img src="wordmark.svg" width="700" alt="Subham Kumar Singh — 3D ASCII wordmark" />
 
 **Software Developer · Computer Science · AI**
 
